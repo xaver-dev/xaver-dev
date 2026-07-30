@@ -4,7 +4,7 @@ in meiner Freizeit baue ich gerne unterschiedliche Anwendungen. Von der ersten I
 Veröffentlichung im Store, inklusive allem Unspektakulären dazwischen: Datenschutzerklärung,
 Store-Assets, Beschreibungstexte.
 
-## Projekte
+## Projekt
 
 **[Sofari](https://xaver-dev.github.io/sofari-landing/)** — Möbel per Foto oder AR maßstabsgetreu im
 eigenen Raum platzieren, bevor man sie kauft. Automatisches Freistellen, Shop-Suche über viele
@@ -21,6 +21,7 @@ automatisierte Workflows · KI-gestützte Entwicklung
 kontakt@sofari.app
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
+## Projekt
 
 **[WaitDojo](https://github.com/xaver-dev/WaitDojo)** — Verwandelt die Wartezeit auf KI-Tools in
 Lernzeit: läuft ein langer Vorgang in Claude Code oder ChatGPT, erscheint in der Bildschirmecke ein
