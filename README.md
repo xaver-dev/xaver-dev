@@ -4,6 +4,7 @@ in meiner Freizeit baue ich gerne unterschiedliche Anwendungen. Von der ersten I
 Veröffentlichung im Store, inklusive allem Unspektakulären dazwischen: Datenschutzerklärung,
 Store-Assets, Beschreibungstexte.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Projekt
 
 **[Sofari](https://xaver-dev.github.io/sofari-landing/)** — Möbel per Foto oder AR maßstabsgetreu im
@@ -34,3 +35,22 @@ kostenlos und Open Source.
 
 Electron · Node.js · lokaler HTTP-Server · Chrome-Erweiterung (MV3) · Spaced-Repetition-Algorithmus ·
 Claude-Code-Hooks · electron-builder · KI-gestützte Entwicklung
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+## Projekt (noch in der Entwicklung)
+
+**[DesktopWorlds](https://github.com/xaver-dev/DesktopWorlds)** — Ein lebender 3D-Schreibtisch
+für Windows: Ordner und Programme werden Teil der Szene statt eines Icon-Rasters. Zwei Welten
+teilen sich einen Kern. 
+**Planet mit Ringsystem** — ein Krater-Planet mit Saturn-ähnlichem Ring, um den deine
+Ordner als Monde kreisen. 
+**Miniwelt** — eine echte Adresse wird über OpenStreetMap zur
+Miniaturstadt im handgezeichneten Anime-Stil, mit echten Gebäuden, Verkehr, Öffis auf ihren
+Linien, Gelände, Wetter und Landschaft. 
+Beide laufen als eigene Schicht unter allen Fenstern — anklickbar statt nur Hintergrund.
+Ohne Konto, ohne Werbung, kostenlos und Open Source.
+
+## Womit
+
+Electron · three.js · WebGL/GLSL (eigener Cel-/Tusche-Shader) · OpenStreetMap · Overpass ·
+Sentinel-2 · Open-Meteo · prozedurale Generierung · KI-gestützte Entwicklung
