@@ -33,6 +33,16 @@ Electron · Node.js · Local HTTP Server · Chrome Extension (MV3) · Spaced Rep
 
 ---
 
+## Project
+
+**[Jobcrawler]** — A local job-search assistant that "finds matching roles across many free sources and learns from your own feedback." The project served as a hands-on introduction to machine learning: postings are matched against your own CV using sentence-transformer embeddings, a self-trained classifier improves from every piece of feedback, and a locally-run language model (LLM via Ollama) scores the strongest matches in depth. Along the way it built experience with embeddings, relevance feedback, integrating local LLMs, and orchestrating many public APIs. Runs fully local, no account, no ongoing costs.
+
+## Built with
+
+Python · sentence-transformers (embeddings) · scikit-learn (LogisticRegression) · Ollama (local LLMs) · Flask (dashboard) · public job APIs · AI-assisted development
+
+---
+
 ## Project (Currently in Development)
 
 **[DesktopWorlds](https://github.com/xaver-dev/DesktopWorlds)** — A living 3D desktop for Windows: folders and applications become part of the scene instead of being arranged in a traditional icon grid.
