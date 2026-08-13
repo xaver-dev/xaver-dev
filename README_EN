@@ -1,0 +1,51 @@
+# Hi, I'm Xaver 👋
+
+In my free time, I enjoy building different kinds of applications. From the initial idea through concept and implementation to publishing in the store, including all the less glamorous tasks in between: privacy policies, store assets, and app descriptions.
+
+---
+
+## Project
+
+**[Sofari](https://xaver-dev.github.io/sofari-landing/)** — Place furniture in your own room to scale using a photo or AR before buying it. Automatic background removal, furniture search across multiple retailers, and color matching for your interior. No account required, no ads, completely free.
+
+→ [Google Play](https://play.google.com/store/apps/details?id=app.sofari) · [Try it in your browser](https://sofari.expo.app/) · [Landing Page](https://xaver-dev.github.io/sofari-landing/)
+
+## Built with
+
+React Native · Expo · Node.js · Image Processing · AR · Cloud Infrastructure · Automated Workflows · AI-Assisted Development
+
+## Contact
+
+[kontakt@sofari.app](mailto:kontakt@sofari.app)
+
+---
+
+## Project
+
+**[WaitDojo](https://github.com/xaver-dev/WaitDojo)** — Turn waiting time into learning time. While a long-running task is processing in Claude Code or ChatGPT, a small flashcard quiz appears in the corner of your screen. Describe any topic, let a chatbot generate the deck, and learn with true spaced repetition that reviews each card at the right moment. No account required, no ads, free and open source.
+
+→ [Repository](https://github.com/xaver-dev/WaitDojo) · [Download (Windows)](https://github.com/xaver-dev/WaitDojo/releases/latest) · [Create Your Own Decks](https://github.com/xaver-dev/WaitDojo/blob/main/DECK_PROMPT.md)
+
+## Built with
+
+Electron · Node.js · Local HTTP Server · Chrome Extension (MV3) · Spaced Repetition Algorithm · Claude Code Hooks · electron-builder · AI-Assisted Development
+
+---
+
+## Project (Currently in Development)
+
+**[DesktopWorlds](https://github.com/xaver-dev/DesktopWorlds)** — A living 3D desktop for Windows: folders and applications become part of the scene instead of being arranged in a traditional icon grid.
+
+Two different worlds share the same core.
+
+**Planet with a Ring System** — A crater planet with a Saturn-like ring system where your folders orbit as moons.
+
+**Mini World** — A real address is transformed into a miniature city using OpenStreetMap and rendered in a hand-drawn anime style, featuring real buildings, traffic, public transportation following actual routes, terrain, weather, and landscapes.
+
+Both worlds run as an independent layer beneath all windows and remain fully interactive instead of serving as a static wallpaper.
+
+No account required, no ads, free and open source.
+
+## Built with
+
+Electron · three.js · WebGL/GLSL (custom cel and ink shader) · OpenStreetMap · Overpass · Sentinel-2 · Open-Meteo · Procedural Generation · AI-Assisted Development
