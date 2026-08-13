@@ -38,6 +38,14 @@ Electron · Node.js · lokaler HTTP-Server · Chrome-Erweiterung (MV3) · Spaced
 Claude-Code-Hooks · electron-builder · KI-gestützte Entwicklung
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
+## Projekt
+
+**[Jobcrawler]** — Ein lokaler Job-Suchassistent, der „passende Stellen aus vielen kostenlosen Quellen findet und aus dem eigenen Feedback lernt". Das Projekt diente als praktisches Einstiegsprojekt in maschinelles Lernen: Stellen werden per Sentence-Transformer-Embeddings mit dem eigenen Lebenslauf abgeglichen, ein selbst trainierter Klassifikator lernt aus jeder Rückmeldung mit, und ein lokal laufendes Sprachmodell (LLM über Ollama) bewertet die besten Treffer im Detail. Dabei entstanden Erfahrungen mit Embeddings, Relevanz-Feedback, dem Anbinden lokaler LLMs und dem Zusammenspiel vieler öffentlicher APIs — komplett lokal, ohne laufende Kosten.
+
+## Womit
+Python · sentence-transformers (Embeddings) · scikit-learn (LogisticRegression) · Ollama (lokale LLMs) · Flask (Dashboard) · öffentliche Job-APIs · KI-gestützte Entwicklung
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Projekt (noch in der Entwicklung)
 
 **[DesktopWorlds](https://github.com/xaver-dev/DesktopWorlds)** — Ein lebender 3D-Schreibtisch
