@@ -1,4 +1,4 @@
-🇩🇪 Deutsch | [🇬🇧 English](README_EN)
+🇩🇪 Deutsch | [🇬🇧 English](./README_EN.md)
 # Hi, ich bin Xaver 👋
 
 in meiner Freizeit baue ich gerne unterschiedliche Anwendungen. Von der ersten Idee über Konzept und Umsetzung bis zur
