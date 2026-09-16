@@ -60,6 +60,9 @@ Miniaturstadt im handgezeichneten Anime-Stil, mit echten Gebäuden, Verkehr, Öf
 Linien, Gelände, Wetter und Landschaft. 
 Beide laufen als eigene Schicht unter allen Fenstern — anklickbar statt nur Hintergrund.
 Ohne Konto, ohne Werbung, kostenlos und Open Source.
+<img width="1600" height="956" alt="image" src="https://github.com/user-attachments/assets/883476a1-65be-495d-95c6-bfe4ae4c7daa" /> <img width="1600" height="956" alt="image" src="https://github.com/user-attachments/assets/eaf0dda6-9c8a-41f5-b3a0-9223d4913596" />
+
+
 
 ## Womit
 
