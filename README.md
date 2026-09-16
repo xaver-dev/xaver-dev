@@ -52,7 +52,8 @@ Python · sentence-transformers (Embeddings) · scikit-learn (LogisticRegression
 für Windows: Ordner und Programme werden Teil der Szene statt eines Icon-Rasters. Zwei Welten
 teilen sich einen Kern. 
 **Planet mit Ringsystem** — ein Krater-Planet mit Saturn-ähnlichem Ring, um den deine
-Ordner als Monde kreisen. 
+Ordner als Monde kreisen. <img width="1999" height="1194" alt="image" src="https://github.com/user-attachments/assets/faa8c777-e888-44fd-8e33-afda6b22e8c1" />
+
 **Miniwelt** — eine echte Adresse wird über OpenStreetMap zur
 Miniaturstadt im handgezeichneten Anime-Stil, mit echten Gebäuden, Verkehr, Öffis auf ihren
 Linien, Gelände, Wetter und Landschaft. 
