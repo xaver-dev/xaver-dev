@@ -57,6 +57,7 @@ Two different worlds share the same core.
 Both worlds run as an independent layer beneath all windows and remain fully interactive instead of serving as a static wallpaper.
 
 No account required, no ads, free and open source.
+<img width="1600" height="956" alt="image" src="https://github.com/user-attachments/assets/883476a1-65be-495d-95c6-bfe4ae4c7daa" /> <img width="1600" height="956" alt="image" src="https://github.com/user-attachments/assets/eaf0dda6-9c8a-41f5-b3a0-9223d4913596" />
 
 ## Built with
 
