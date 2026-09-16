@@ -31,6 +31,8 @@ kleines Quiz-Popup mit Karteikarten. Zu jedem Thema — du beschreibst es, ein C
 mit echtem Spaced Repetition, das jede Karte im richtigen Moment wiederholt. Ohne Konto, ohne Werbung,
 kostenlos und Open Source.
 → [Repository](https://github.com/xaver-dev/WaitDojo) · [Download (Windows)](https://github.com/xaver-dev/WaitDojo/releases/latest) · [Eigene Decks erstellen](https://github.com/xaver-dev/WaitDojo/blob/main/DECK_PROMPT.md)
+<img width="573" height="843" alt="image" src="https://github.com/user-attachments/assets/4f494087-95a7-47ce-9f66-f455858e9b3b" />
+<img width="573" height="843" alt="image" src="https://github.com/user-attachments/assets/3d49f1d1-4fbb-4acf-a90a-493b75866aaa" />
 
 ## Womit
 
