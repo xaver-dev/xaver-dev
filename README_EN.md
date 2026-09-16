@@ -49,7 +49,8 @@ Python · sentence-transformers (embeddings) · scikit-learn (LogisticRegression
 
 Two different worlds share the same core.
 
-**Planet with a Ring System** — A crater planet with a Saturn-like ring system where your folders orbit as moons.
+**Planet with a Ring System** — A crater planet with a Saturn-like ring system where your folders orbit as moons. <img width="1999" height="1194" alt="image" src="https://github.com/user-attachments/assets/a9dd1ce2-f241-4a58-b4a9-9958a3b48ac9" />
+
 
 **Mini World** — A real address is transformed into a miniature city using OpenStreetMap and rendered in a hand-drawn anime style, featuring real buildings, traffic, public transportation following actual routes, terrain, weather, and landscapes.
 
