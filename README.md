@@ -12,7 +12,7 @@ Store-Assets, Beschreibungstexte.
 eigenen Raum platzieren, bevor man sie kauft. Automatisches Freistellen, Shop-Suche über viele
 Anbieter, Farbabgleich für den Raum. Ohne Konto, ohne Werbung, ohne Kosten.
 → [Google Play](https://play.google.com/store/apps/details?id=app.sofari) · [im Browser testen](https://sofari.expo.app/) · [Landingpage](https://xaver-dev.github.io/sofari-landing/)
-<img width="965" height="2048" alt="image" src="https://github.com/user-attachments/assets/e60f4214-734a-4b04-92e9-a6ebc81028a6" />
+<img width="465" height="1548" alt="image" src="https://github.com/user-attachments/assets/e60f4214-734a-4b04-92e9-a6ebc81028a6" />
 
 ## Womit
 
