@@ -50,21 +50,22 @@ Python · sentence-transformers (Embeddings) · scikit-learn (LogisticRegression
 
 **[DesktopWorlds](https://github.com/xaver-dev/DesktopWorlds)** — Ein lebender 3D-Schreibtisch
 für Windows: Ordner und Programme werden Teil der Szene statt eines Icon-Rasters. Zwei Welten
-teilen sich einen Kern. 
+teilen sich einen Kern.
+→ [Download (Windows)](https://github.com/xaver-dev/DesktopWorlds/releases/latest) · [Trailer ansehen](https://github.com/xaver-dev/DesktopWorlds/releases/latest/download/DesktopWorlds-trailer-de.mp4)
 
 **Planet mit Ringsystem** — ein Krater-Planet mit Saturn-ähnlichem Ring, um den deine
-Ordner als Monde kreisen. <img width="1999" height="1194" alt="image" src="https://github.com/user-attachments/assets/faa8c777-e888-44fd-8e33-afda6b22e8c1" />
+Ordner als Monde kreisen. <img width="1999" height="1194" alt="Planet mit Ordner-Monden" src="https://github.com/user-attachments/assets/faa8c777-e888-44fd-8e33-afda6b22e8c1" />
 
-**Miniwelt** — eine echte Adresse wird über OpenStreetMap zur
-Miniaturstadt im handgezeichneten Anime-Stil, mit echten Gebäuden, Verkehr, Öffis auf ihren
-Linien, Gelände, Wetter und Landschaft. 
+**Miniwelt** — eine echte Adresse wird über OpenStreetMap und amtliche 3D-Gebäudedaten zur
+Miniaturstadt im Toon-Stil mit Tuschelinien: echte Gebäude, Wahrzeichen als 3D-Modelle,
+Verkehr, animierte Menschen, Öffis auf ihren Linien, Gelände, Wetter, Tag und Nacht.
 Beide laufen als eigene Schicht unter allen Fenstern — anklickbar statt nur Hintergrund.
-Ohne Konto, ohne Werbung, kostenlos und Open Source.
-<img width="1600" height="956" alt="image" src="https://github.com/user-attachments/assets/883476a1-65be-495d-95c6-bfe4ae4c7daa" /> <img width="1600" height="956" alt="image" src="https://github.com/user-attachments/assets/eaf0dda6-9c8a-41f5-b3a0-9223d4913596" />
-
-
+Ohne Konto, ohne Werbung, kostenlos.
+<img width="1600" height="955" alt="Miniwelt Rom mit dem Kolosseum" src="images/miniwelt-rom.jpg" /> <img width="1600" height="955" alt="Miniwelt Paris mit dem Eiffelturm" src="images/miniwelt-paris.jpg" />
 
 ## Womit
 
-Electron · three.js · WebGL/GLSL (eigener Cel-/Tusche-Shader) · OpenStreetMap · Overpass ·
-Sentinel-2 · Open-Meteo · prozedurale Generierung · KI-gestützte Entwicklung
+Electron · three.js · WebGL/GLSL (eigener Cel-/Tusche-Shader, GPU-Skinning für animierte Figuren) ·
+OpenStreetMap · Overpass · Overture Maps · amtliche 3D-Gebäudedaten (CityGML/LoD2) · Sentinel-2 ·
+Open-Meteo · Light-Probe-Beleuchtung · freie 3D-Modelle (glTF, gltf-transform, meshoptimizer) ·
+lokal KI-erzeugte Fassadentexturen (FLUX.2) · prozedurale Generierung · KI-gestützte Entwicklung

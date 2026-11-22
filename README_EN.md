@@ -48,17 +48,18 @@ Python · sentence-transformers (embeddings) · scikit-learn (LogisticRegression
 **[DesktopWorlds](https://github.com/xaver-dev/DesktopWorlds)** — A living 3D desktop for Windows: folders and applications become part of the scene instead of being arranged in a traditional icon grid.
 
 Two different worlds share the same core.
+→ [Download (Windows)](https://github.com/xaver-dev/DesktopWorlds/releases/latest) · [Watch the trailer](https://github.com/xaver-dev/DesktopWorlds/releases/latest/download/DesktopWorlds-trailer-en.mp4)
 
-**Planet with a Ring System** — A crater planet with a Saturn-like ring system where your folders orbit as moons. <img width="1999" height="1194" alt="image" src="https://github.com/user-attachments/assets/a9dd1ce2-f241-4a58-b4a9-9958a3b48ac9" />
+**Planet with a Ring System** — A crater planet with a Saturn-like ring system where your folders orbit as moons. <img width="1999" height="1194" alt="Planet with folder moons" src="https://github.com/user-attachments/assets/a9dd1ce2-f241-4a58-b4a9-9958a3b48ac9" />
 
 
-**Mini World** — A real address is transformed into a miniature city using OpenStreetMap and rendered in a hand-drawn anime style, featuring real buildings, traffic, public transportation following actual routes, terrain, weather, and landscapes.
+**Mini World** — A real address is turned into a miniature city from OpenStreetMap and official 3D building data, drawn in a toon style with ink outlines: real buildings, landmarks as 3D models, traffic, animated people, public transport following its actual routes, terrain, weather, day and night.
 
 Both worlds run as an independent layer beneath all windows and remain fully interactive instead of serving as a static wallpaper.
 
-No account required, no ads, free and open source.
-<img width="1600" height="956" alt="image" src="https://github.com/user-attachments/assets/883476a1-65be-495d-95c6-bfe4ae4c7daa" /> <img width="1600" height="956" alt="image" src="https://github.com/user-attachments/assets/eaf0dda6-9c8a-41f5-b3a0-9223d4913596" />
+No account required, no ads, free of charge.
+<img width="1600" height="955" alt="Mini World: Rome with the Colosseum" src="images/miniwelt-rom.jpg" /> <img width="1600" height="955" alt="Mini World: Paris with the Eiffel Tower" src="images/miniwelt-paris.jpg" />
 
 ## Built with
 
-Electron · three.js · WebGL/GLSL (custom cel and ink shader) · OpenStreetMap · Overpass · Sentinel-2 · Open-Meteo · Procedural Generation · AI-Assisted Development
+Electron · three.js · WebGL/GLSL (custom cel and ink shader, GPU skinning for animated figures) · OpenStreetMap · Overpass · Overture Maps · official 3D building data (CityGML/LoD2) · Sentinel-2 · Open-Meteo · light-probe lighting · free 3D models (glTF, gltf-transform, meshoptimizer) · locally AI-generated facade textures (FLUX.2) · Procedural Generation · AI-Assisted Development
