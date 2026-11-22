@@ -8,8 +8,8 @@ Store-Assets, Beschreibungstexte.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Projekt
 
-**[Sofari](https://xaver-dev.github.io/sofari-landing/)** — Möbel per Foto oder AR maßstabsgetreu im
-eigenen Raum platzieren, bevor man sie kauft. Automatisches Freistellen, Shop-Suche über viele
+## [Sofari](https://xaver-dev.github.io/sofari-landing/)
+Möbel per Foto oder AR maßstabsgetreu im eigenen Raum platzieren, bevor man sie kauft. Automatisches Freistellen, Shop-Suche über viele
 Anbieter, Farbabgleich für den Raum. Ohne Konto, ohne Werbung, ohne Kosten.
 → [Google Play](https://play.google.com/store/apps/details?id=app.sofari) · [im Browser testen](https://sofari.expo.app/) · [Landingpage](https://xaver-dev.github.io/sofari-landing/)
 
