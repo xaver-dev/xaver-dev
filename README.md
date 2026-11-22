@@ -32,8 +32,8 @@ kontakt@sofari.app
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Projekt
 
-**[WaitDojo](https://github.com/xaver-dev/WaitDojo)** — Verwandelt die Wartezeit auf KI-Tools in
-Lernzeit: läuft ein langer Vorgang in Claude Code oder ChatGPT, erscheint in der Bildschirmecke ein
+## [WaitDojo](https://github.com/xaver-dev/WaitDojo)
+Verwandelt die Wartezeit auf KI-Tools in Lernzeit: läuft ein langer Vorgang in Claude Code oder ChatGPT, erscheint in der Bildschirmecke ein
 kleines Quiz-Popup mit Karteikarten. Zu jedem Thema — du beschreibst es, ein Chatbot baut das Deck —
 mit echtem Spaced Repetition, das jede Karte im richtigen Moment wiederholt. Ohne Konto, ohne Werbung,
 kostenlos und Open Source.
@@ -47,7 +47,8 @@ Claude-Code-Hooks · electron-builder · KI-gestützte Entwicklung
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Projekt
 
-**[Jobcrawler]** — Ein lokaler Job-Suchassistent, der „passende Stellen aus vielen kostenlosen Quellen findet und aus dem eigenen Feedback lernt". Das Projekt diente als praktisches Einstiegsprojekt in maschinelles Lernen: Stellen werden per Sentence-Transformer-Embeddings mit dem eigenen Lebenslauf abgeglichen, ein selbst trainierter Klassifikator lernt aus jeder Rückmeldung mit, und ein lokal laufendes Sprachmodell (LLM über Ollama) bewertet die besten Treffer im Detail. Dabei entstanden Erfahrungen mit Embeddings, Relevanz-Feedback, dem Anbinden lokaler LLMs und dem Zusammenspiel vieler öffentlicher APIs — komplett lokal, ohne laufende Kosten.
+## [Jobcrawler]
+Ein lokaler Job-Suchassistent, der „passende Stellen aus vielen kostenlosen Quellen findet und aus dem eigenen Feedback lernt". Das Projekt diente als praktisches Einstiegsprojekt in maschinelles Lernen: Stellen werden per Sentence-Transformer-Embeddings mit dem eigenen Lebenslauf abgeglichen, ein selbst trainierter Klassifikator lernt aus jeder Rückmeldung mit, und ein lokal laufendes Sprachmodell (LLM über Ollama) bewertet die besten Treffer im Detail. Dabei entstanden Erfahrungen mit Embeddings, Relevanz-Feedback, dem Anbinden lokaler LLMs und dem Zusammenspiel vieler öffentlicher APIs — komplett lokal, ohne laufende Kosten.
 
 ## Womit
 Python · sentence-transformers (Embeddings) · scikit-learn (LogisticRegression) · Ollama (lokale LLMs) · Flask (Dashboard) · öffentliche Job-APIs · KI-gestützte Entwicklung
@@ -55,8 +56,8 @@ Python · sentence-transformers (Embeddings) · scikit-learn (LogisticRegression
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Projekt (noch in der Entwicklung)
 
-**[DesktopWorlds](https://github.com/xaver-dev/DesktopWorlds)** — Ein lebender 3D-Schreibtisch
-für Windows: Ordner und Programme werden Teil der Szene statt eines Icon-Rasters. Zwei Welten
+## [DesktopWorlds](https://github.com/xaver-dev/DesktopWorlds)
+Ein lebender 3D-Schreibtisch für Windows: Ordner und Programme werden Teil der Szene statt eines Icon-Rasters. Zwei Welten
 teilen sich einen Kern.
 → [Download (Windows)](https://github.com/xaver-dev/DesktopWorlds/releases/latest) · [Trailer ansehen](https://github.com/xaver-dev/DesktopWorlds/releases/latest/download/DesktopWorlds-trailer-de.mp4)
 
