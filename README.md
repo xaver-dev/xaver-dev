@@ -10,7 +10,7 @@ Inhaltsverzeichnis:
 - [WaitDojo](#waitdojo)
 - [Jobcrawler](#jobcrawler)
 - [DesktopWorlds](#desktopworlds)
-- [Kontakt](#kontakt)
+- [Iromori](#iromori)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Projekt
@@ -77,3 +77,8 @@ Electron · three.js · WebGL/GLSL (eigener Cel-/Tusche-Shader, GPU-Skinning fü
 OpenStreetMap · Overpass · Overture Maps · amtliche 3D-Gebäudedaten (CityGML/LoD2) · Sentinel-2 ·
 Open-Meteo · Light-Probe-Beleuchtung · freie 3D-Modelle (glTF, gltf-transform, meshoptimizer) ·
 lokal KI-erzeugte Fassadentexturen (FLUX.2) · prozedurale Generierung · KI-gestützte Entwicklung
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+## Projekt (noch in der Entwicklung)
+
+## [Iromori]
