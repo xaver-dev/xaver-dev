@@ -5,6 +5,13 @@ in meiner Freizeit baue ich gerne unterschiedliche Anwendungen. Von der ersten I
 Veröffentlichung im Store, inklusive allem Unspektakulären dazwischen: Datenschutzerklärung,
 Store-Assets, Beschreibungstexte.
 
+Inhaltsverzeichnis:
+- [Sofari](#sofari)
+- [WaitDojo](#waitdojo)
+- [Jobcrawler](#jobcrawler)
+- [DesktopWorlds](#desktopworlds)
+- [Kontakt](#kontakt)
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Projekt
 
