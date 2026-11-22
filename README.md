@@ -82,3 +82,19 @@ lokal KI-erzeugte Fassadentexturen (FLUX.2) · prozedurale Generierung · KI-ges
 ## Projekt (noch in der Entwicklung)
 
 ## [Iromori]
+Ein filmisches 3D-Abenteuer im Stil ostasiatischer Tuschemalerei, gebaut fürs Smartphone (Android). Vier Diebe haben die Farben der Welt gestohlen.
+Kai, Enkel des Iromori-Clans, der am Fuß des Fuji seit Generationen die Farben der Welt malt, zieht mit Pinsel, Schriftrolle und einem Hund aus Tinte los,
+um sie zurückzumalen. Die Welt beginnt als leeres Papier: Wo Kai hingeht, fallen große Tintentropfen und zerplatzen zu Häusern, Bäumen und Straßen,
+die zu einer Tuschezeichnung trocknen. Die Orte sind echt (Fujiyoshida, Tokio, London) und entstehen aus OpenStreetMap-Daten, die Wahrzeichen bleiben
+erkennbar. Dazu Zwischensequenzen, Rätsel, Flötenspiel im Takt der Musik und Kämpfe. Noch nicht veröffentlicht.
+
+<p align="center"><img width="420" alt="Iromori: Filmplakat mit Kai, seinem Hund, den Großeltern und den vier Dieben" src="images/iromori-cover.jpg" /></p>
+
+<img width="1600" height="733" alt="Fujiyoshida in Farbe: die Chureito-Pagode vor dem Fuji" src="images/iromori-fujiyoshida.jpg" /> <img width="1600" height="733" alt="London ohne Farben: Kai und sein Hund im Boot vor der Tower Bridge" src="images/iromori-london.jpg" />
+
+## Womit
+
+three.js · WebGL/GLSL (eigene Shader für Tuschelinien, Aquarell, Papier und das Verblassen der Farben) ·
+OpenStreetMap · Overpass · prozedurale Generierung · eigene Drehbuch- und Kamerasteuerung für die
+Zwischensequenzen · Playwright (automatische Prüfbilder) · Key-Art und Filmclips mit KI (Gemini, Higgsfield) ·
+KI-gestützte Entwicklung

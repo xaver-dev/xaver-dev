@@ -3,11 +3,19 @@
 
 In my free time, I enjoy building different kinds of applications. From the initial idea through concept and implementation to publishing in the store, including all the less glamorous tasks in between: privacy policies, store assets, and app descriptions.
 
+Table of contents:
+- [Sofari](#sofari)
+- [WaitDojo](#waitdojo)
+- [Jobcrawler](#jobcrawler)
+- [DesktopWorlds](#desktopworlds)
+- [Iromori](#iromori)
+
 ---
 
 ## Project
 
-**[Sofari](https://xaver-dev.github.io/sofari-landing/)** — Place furniture in your own room to scale using a photo or AR before buying it. Automatic background removal, furniture search across multiple retailers, and color matching for your interior. No account required, no ads, completely free.
+## [Sofari](https://xaver-dev.github.io/sofari-landing/)
+Place furniture in your own room to scale using a photo or AR before buying it. Automatic background removal, furniture search across multiple retailers, and color matching for your interior. No account required, no ads, completely free.
 
 → [Google Play](https://play.google.com/store/apps/details?id=app.sofari) · [Try it in your browser](https://sofari.expo.app/) · [Landing Page](https://xaver-dev.github.io/sofari-landing/)
 
@@ -23,7 +31,8 @@ React Native · Expo · Node.js · Image Processing · AR · Cloud Infrastructur
 
 ## Project
 
-**[WaitDojo](https://github.com/xaver-dev/WaitDojo)** — Turn waiting time into learning time. While a long-running task is processing in Claude Code or ChatGPT, a small flashcard quiz appears in the corner of your screen. Describe any topic, let a chatbot generate the deck, and learn with true spaced repetition that reviews each card at the right moment. No account required, no ads, free and open source.
+## [WaitDojo](https://github.com/xaver-dev/WaitDojo)
+Turn waiting time into learning time. While a long-running task is processing in Claude Code or ChatGPT, a small flashcard quiz appears in the corner of your screen. Describe any topic, let a chatbot generate the deck, and learn with true spaced repetition that reviews each card at the right moment. No account required, no ads, free and open source.
 
 → [Repository](https://github.com/xaver-dev/WaitDojo) · [Download (Windows)](https://github.com/xaver-dev/WaitDojo/releases/latest) · [Create Your Own Decks](https://github.com/xaver-dev/WaitDojo/blob/main/DECK_PROMPT.md)
 
@@ -35,7 +44,8 @@ Electron · Node.js · Local HTTP Server · Chrome Extension (MV3) · Spaced Rep
 
 ## Project
 
-**[Jobcrawler]** — A local job-search assistant that "finds matching roles across many free sources and learns from your own feedback." The project served as a hands-on introduction to machine learning: postings are matched against your own CV using sentence-transformer embeddings, a self-trained classifier improves from every piece of feedback, and a locally-run language model (LLM via Ollama) scores the strongest matches in depth. Along the way it built experience with embeddings, relevance feedback, integrating local LLMs, and orchestrating many public APIs. Runs fully local, no account, no ongoing costs.
+## [Jobcrawler]
+A local job-search assistant that "finds matching roles across many free sources and learns from your own feedback." The project served as a hands-on introduction to machine learning: postings are matched against your own CV using sentence-transformer embeddings, a self-trained classifier improves from every piece of feedback, and a locally-run language model (LLM via Ollama) scores the strongest matches in depth. Along the way it built experience with embeddings, relevance feedback, integrating local LLMs, and orchestrating many public APIs. Runs fully local, no account, no ongoing costs.
 
 ## Built with
 
@@ -45,7 +55,8 @@ Python · sentence-transformers (embeddings) · scikit-learn (LogisticRegression
 
 ## Project (Currently in Development)
 
-**[DesktopWorlds](https://github.com/xaver-dev/DesktopWorlds)** — A living 3D desktop for Windows: folders and applications become part of the scene instead of being arranged in a traditional icon grid.
+## [DesktopWorlds](https://github.com/xaver-dev/DesktopWorlds)
+A living 3D desktop for Windows: folders and applications become part of the scene instead of being arranged in a traditional icon grid.
 
 Two different worlds share the same core.
 → [Download (Windows)](https://github.com/xaver-dev/DesktopWorlds/releases/latest) · [Watch the trailer](https://github.com/xaver-dev/DesktopWorlds/releases/latest/download/DesktopWorlds-trailer-en.mp4)
@@ -63,3 +74,18 @@ No account required, no ads, free of charge.
 ## Built with
 
 Electron · three.js · WebGL/GLSL (custom cel and ink shader, GPU skinning for animated figures) · OpenStreetMap · Overpass · Overture Maps · official 3D building data (CityGML/LoD2) · Sentinel-2 · Open-Meteo · light-probe lighting · free 3D models (glTF, gltf-transform, meshoptimizer) · locally AI-generated facade textures (FLUX.2) · Procedural Generation · AI-Assisted Development
+
+---
+
+## Project (Currently in Development)
+
+## [Iromori]
+A cinematic 3D adventure in the style of East Asian ink painting, built for smartphones (Android). Four thieves have stolen the colors of the world. Kai, grandson of the Iromori clan, who have painted the world's colors at the foot of Mount Fuji for generations, sets out with his brush, his scroll and a dog made of ink to paint them back. The world starts as blank paper: wherever Kai goes, large ink drops fall and burst into houses, trees and streets that dry into an ink drawing. The places are real (Fujiyoshida, Tokyo, London), built from OpenStreetMap data, and their landmarks stay recognizable. Plus cutscenes, puzzles, flute playing in time with the music, and fights. Not yet released.
+
+<p align="center"><img width="420" alt="Iromori: film poster with Kai, his dog, his grandparents and the four thieves" src="images/iromori-cover.jpg" /></p>
+
+<img width="1600" height="733" alt="Fujiyoshida in color: the Chureito Pagoda in front of Mount Fuji" src="images/iromori-fujiyoshida.jpg" /> <img width="1600" height="733" alt="London without color: Kai and his dog in a boat in front of Tower Bridge" src="images/iromori-london.jpg" />
+
+## Built with
+
+three.js · WebGL/GLSL (custom shaders for ink lines, watercolor, paper and fading colors) · OpenStreetMap · Overpass · Procedural Generation · own scripting and camera system for cutscenes · Playwright (automated test screenshots) · AI key art and film clips (Gemini, Higgsfield) · AI-Assisted Development
