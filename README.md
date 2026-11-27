@@ -6,11 +6,11 @@ Veröffentlichung im Store, inklusive allem Unspektakulären dazwischen: Datensc
 Store-Assets, Beschreibungstexte.
 
 Inhaltsverzeichnis:
-- [Sofari](#sofari)
-- [WaitDojo](#waitdojo)
-- [Jobcrawler](#jobcrawler)
-- [DesktopWorlds](#desktopworlds)
-- [Iromori](#iromori)
+- [Sofari](#sofari) (Android App)
+- [WaitDojo](#waitdojo)  (KI-gestütztes Lern- und Automatisierungstool)
+- [Jobcrawler](#jobcrawler) (KI-gestützter Job-Suchassistent)
+- [DesktopWorlds](#desktopworlds) (Desktop App)
+- [Iromori](#iromori) (Android Spiel)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Projekt
